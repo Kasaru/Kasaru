@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kasaru
 - 👀 I’m interested in Programming and testing
 - 🌱 I’m currently learning Python
-- 📫 How to reach me <a href="https://www.linkedin.com/in/artem-katsenelenbogen-7739b2204"> LI </a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/artem-katsenelenbogen-7739b2204"> Li </a>
